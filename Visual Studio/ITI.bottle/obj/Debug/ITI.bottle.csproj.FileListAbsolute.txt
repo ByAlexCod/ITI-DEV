@@ -1,0 +1,6 @@
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\ITI.User\ITI.bottle\bin\Debug\ITI.bottle.exe.config
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\ITI.User\ITI.bottle\bin\Debug\ITI.bottle.exe
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\ITI.User\ITI.bottle\bin\Debug\ITI.bottle.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\ITI.User\ITI.bottle\obj\Debug\ITI.bottle.exe
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\ITI.User\ITI.bottle\obj\Debug\ITI.bottle.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\ITI.User\ITI.bottle\obj\Debug\ITI.bottle.csprojResolveAssemblyReference.cache

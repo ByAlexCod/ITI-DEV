@@ -1,0 +1,11 @@
+c:\users\alexandre\documents\visual studio 2015\Projects\ITI.User\ITI.User\bin\Debug\ITI.User.exe.config
+c:\users\alexandre\documents\visual studio 2015\Projects\ITI.User\ITI.User\bin\Debug\ITI.User.exe
+c:\users\alexandre\documents\visual studio 2015\Projects\ITI.User\ITI.User\bin\Debug\ITI.User.pdb
+c:\users\alexandre\documents\visual studio 2015\Projects\ITI.User\ITI.User\obj\Debug\ITI.User.csprojResolveAssemblyReference.cache
+c:\users\alexandre\documents\visual studio 2015\Projects\ITI.User\ITI.User\obj\Debug\ITI.User.exe
+c:\users\alexandre\documents\visual studio 2015\Projects\ITI.User\ITI.User\obj\Debug\ITI.User.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\ITI.User\ITI.User\bin\Debug\ITI.UserManagement.model.dll
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\ITI.User\ITI.User\bin\Debug\ITI.UserManagement.model.pdb
+D:\ITI Dev\Visual Studio\ITI.User\bin\Debug\ITI.User.exe.config
+D:\ITI Dev\Visual Studio\ITI.User\obj\Debug\ITI.User.exe
+D:\ITI Dev\Visual Studio\ITI.User\obj\Debug\ITI.User.pdb

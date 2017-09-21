@@ -1,0 +1,5 @@
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\ITI.User\ITI.UserManagement.model\bin\Debug\ITI.UserManagement.model.dll
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\ITI.User\ITI.UserManagement.model\bin\Debug\ITI.UserManagement.model.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\ITI.User\ITI.UserManagement.model\obj\Debug\ITI.UserManagement.model.dll
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\ITI.User\ITI.UserManagement.model\obj\Debug\ITI.UserManagement.model.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\ITI.User\ITI.UserManagement.model\obj\Debug\ITI.UserManagement.model.csprojResolveAssemblyReference.cache
