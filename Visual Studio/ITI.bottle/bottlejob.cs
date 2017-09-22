@@ -12,10 +12,11 @@ namespace ITI.bottle
         int _currentVolume;
         int _calcul;
         string _name;
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="capacity"></param>
+       /// <summary>
+       /// Set for bottle, capacity and name.
+       /// </summary>
+       /// <param name="capacity">Set Capacity in Milliliters</param>
+       /// <param name="name">Set name as string</param>
         public Bottle (int capacity, string name)
         {
             _capacity = capacity;

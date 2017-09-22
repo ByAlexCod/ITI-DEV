@@ -11,7 +11,7 @@ namespace ITI.bottle
     {
         static void Main(string[] args)
         {
-            Bottle b = new Bottle(500, "Bière");
+            Bottle b = new Bottle(986, "Bière");
             b.Volume = 54;
 
             Console.WriteLine(b.Capacity);
