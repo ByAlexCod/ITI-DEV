@@ -10,3 +10,4 @@ D:\ITI Dev\Visual Studio\ITI.bottle\obj\Debug\ITI.bottle.pdb
 D:\ITI Dev\Visual Studio\ITI.bottle\bin\Debug\ITI.bottle.exe
 D:\ITI Dev\Visual Studio\ITI.bottle\bin\Debug\ITI.bottle.pdb
 D:\ITI Dev\Visual Studio\ITI.bottle\obj\Debug\ITI.bottle.csprojResolveAssemblyReference.cache
+D:\ITI Dev\Visual Studio\ITI.bottle\obj\Debug\ITI.bottle.csproj.CoreCompileInputs.cache

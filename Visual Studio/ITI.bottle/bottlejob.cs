@@ -32,7 +32,20 @@ namespace ITI.bottle
         
         public int Volume
         {
-            get { return _currentVolume; }
+            get {
+                    if (_currentVolume > _capacity)
+                    {
+                        _currentVolume = _capacity;
+                        return _currentVolume;
+                    } else if (_currentVolume < 0)
+                    {
+                        _currentVolume = 0;
+                    return _currentVolume;
+                    } else
+                    {
+                        return _currentVolume;
+                    }
+                }
             set { _currentVolume = value; }
         }
 
